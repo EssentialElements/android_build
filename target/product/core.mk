@@ -54,7 +54,6 @@ PRODUCT_PACKAGES += \
     VpnDialogs \
     MmsService \
     DTLauncher \
-    LinuxDeploy \
     TeamViewerHost
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
